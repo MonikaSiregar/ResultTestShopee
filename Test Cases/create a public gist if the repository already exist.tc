@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create a public gist if the repository already exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6c6cf7b-ef5b-4fe4-b1cf-cfcae2d0c8aa</testCaseGuid>
+</TestCaseEntity>
